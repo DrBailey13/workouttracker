@@ -19,10 +19,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cmarshman/fitness_tracker.git"
+    "url": "git+https://github.com/drbailey13/workouttracker.git"
   },
   "bugs": {
-    "url": "https://github.com/cmarshman/fitness_tracker/issues"
+    "url": "https://github.com/drbailey13/workouttracker/issues"
   },
-  "homepage": "https://github.com/cmarshman/fitness_tracker#readme"
+  "homepage": "https://github.com/drbailey13/workouttracker#readme"
 }
